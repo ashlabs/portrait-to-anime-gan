@@ -1,0 +1,9 @@
+path,partition,domain,width,height,pixel_sha256,split
+data/raw/selfie2anime/trainA/female_4620.jpg,trainA,photo,256,256,d08899eeb8412184d7b7275a45a2bd5f3b60b4e8cf91e91d3ee24be41a79ae85,validation
+data/raw/selfie2anime/trainA/female_19038.jpg,trainA,photo,256,256,5e787992a88d06b0d1e81bcc33dcd45695efe1401acf2270489eca1d8c2b2fb2,validation
+data/raw/selfie2anime/trainA/female_18612.jpg,trainA,photo,256,256,49fd629ae4603ba57fdc4df8dfa6ef42a3124b3434413d0aeb9bdb2a0c98c7a2,validation
+data/raw/selfie2anime/trainA/female_12883.jpg,trainA,photo,256,256,c7fb3c9070f15955123c57902e8df20df2535ed74019473407d5805ca4de538f,validation
+data/raw/selfie2anime/trainA/female_20057.jpg,trainA,photo,256,256,1291814c32e144570497976f1b0e09507ed56bc3031788e1ba9f8aca5945cddb,validation
+data/raw/selfie2anime/trainA/female_30406.jpg,trainA,photo,256,256,f4337a00296434b5650cd99a82089864f4a1dbf266da9845d50af7633926f399,validation
+data/raw/selfie2anime/trainA/female_25638.jpg,trainA,photo,256,256,7b8066da7d2440ba864a2ea4141e51b83635c6c7944d073eabd422ae80656b3a,validation
+data/raw/selfie2anime/trainA/female_4011.jpg,trainA,photo,256,256,903f24721f3e7546e1b91c48d68fcd0fdf3bb3fd4426d975d7f1e69befc183f1,validation

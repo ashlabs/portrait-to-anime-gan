@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets and model weights
+data/raw/
+checkpoints/
+*.pt
+*.pth
+
+# Temporary notebook copy
+/generative_model_copy.ipynb
+
+# macOS metadata
+.DS_Store
