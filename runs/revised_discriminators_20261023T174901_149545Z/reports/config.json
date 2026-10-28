@@ -1,0 +1,25 @@
+{
+  "architecture": "attention generator with revised discriminators",
+  "image_size": 256,
+  "batch_size": 1,
+  "base_channels": 32,
+  "residual_blocks_per_stage": 4,
+  "local_discriminator_layers": 5,
+  "global_discriminator_layers": 7,
+  "max_discriminator_channels": 512,
+  "learning_rate": 0.0001,
+  "adam_betas": [
+    0.5,
+    0.999
+  ],
+  "lambda_adversarial": 1.0,
+  "lambda_cycle": 10.0,
+  "lambda_identity": 10.0,
+  "lambda_cam": 1000.0,
+  "epochs": 20,
+  "diagnostic_steps": 20,
+  "lr_schedule": "constant during initial pilot",
+  "seed": 42,
+  "discriminator_attention_weights": "weight_orig",
+  "discriminator_fusion_spectral_norm": false
+}
